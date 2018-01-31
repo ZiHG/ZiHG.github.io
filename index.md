@@ -2,7 +2,7 @@
 
 ### Know me fast! 
 
-[Resume]() | [Linkedin](www.linkedin.com/in/zhihangao)
+[Resume](https://github.com/ZiHG/ZiHG.github.io/blob/master/Gao-Zhihan%20(Kay).pdf)  |  [Linkedin](https://www.linkedin.com/in/zhihangao)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

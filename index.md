@@ -4,37 +4,14 @@
 
 [Resume](https://github.com/ZiHG/ZiHG.github.io/blob/master/Gao-Zhihan%20(Kay).pdf)  |  [Linkedin](https://www.linkedin.com/in/zhihangao)
 
+Currently I’m a graduate student in MSBA program (Master of Science in Business Analytics) from Goizueta Business School, Emory University. Welcome to my [Github profile](https://github.com/ZiHG) to look at the projects I’ve done so far. These projects mainly cover: 
++ ***predictive modeling*** (classification, regression), using `R, python and RapidMiner`; 
++ ***social network analysis***, using `R`; 
++ ***data visualization***, using `Tableau and R`;
++ And now I shrift my focus to wrestling big data with `AWS` and tools in `Apache Hadoop ecosystem (Spark, Sqoop, Hive and more)`. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZiHG/ZiHG.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

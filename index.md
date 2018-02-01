@@ -6,7 +6,7 @@ Currently I’m a graduate student in MSBA program (Master of Science in Busines
 + ***predictive modeling*** (classification, regression), using <span style="color:gunmetal">*R, python and RapidMiner* </span>; 
 + ***social network analysis***, using <span style="color:gunmetal">*R* </span>; 
 + ***data visualization***, using <span style="color:gunmetal">*Tableau and R* </span>;
-+ And now I shrift my focus to wrestling big data with <span style="color:gunmetal">*AWS* </span> and tools in <span style="color:gunmetal">*Apache Hadoop ecosystem (Spark, Sqoop, Hive and more)* </span>. 
++ And now I shrift my focus to wrestling ***big data*** with <span style="color:gunmetal">*AWS* </span> and tools in <span style="color:gunmetal">*Apache Hadoop ecosystem (Spark, Sqoop, Hive and more)* </span>. 
 
 
 You may contact me at zhihan.gao@emory.edu.

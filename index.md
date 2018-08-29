@@ -6,7 +6,7 @@ I graduated from Emory MSBA program (Master of Science in Business Analytics) in
 + ***predictive modeling*** (classification, regression), using <span style="color:teal">*R, python and RapidMiner* </span>; 
 + ***social network analysis***, using <span style="color:teal">*R* </span>; 
 + ***data visualization***, using <span style="color:teal">*Tableau and R* </span>;
-+ And now I shift my focus to wrestling ***big data*** with <span style="color:teal">*AWS* </span> and tools in <span style="color:teal">*Apache Hadoop ecosystem (Spark, Sqoop, Hive and more)* </span> and report automation. 
++ And now I shift my focus to wrestling ***big data*** with <span style="color:teal">*AWS* </span> , tools in <span style="color:teal">*Apache Hadoop ecosystem (Spark, Sqoop, Hive and more)* </span> and report automation. 
 
 
 You may contact me at zhihan.gao@emory.edu.

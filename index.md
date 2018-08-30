@@ -1,5 +1,5 @@
  
-### Know me fast! [Resume](https://github.com/ZiHG/ZiHG.github.io/blob/master/Gao-Zhihan%20(Kay)%20Resume.pdf) | [Linkedin](https://www.linkedin.com/in/zhihangao) | [Tableau Public](https://public.tableau.com/profile/zihg#!/)
+### Know me fast! [Resume](https://github.com/ZiHG/ZiHG.github.io/blob/master/Gao-Zhihan%20(Kay).pdf) | [Linkedin](https://www.linkedin.com/in/zhihangao) | [Tableau Public](https://public.tableau.com/profile/zihg#!/)
 
 I graduated from Emory MSBA program (Master of Science in Business Analytics) in May, 2018 and currently working as a business analyst intern. Welcome to my [Github profile](https://github.com/ZiHG) to look at the projects I’ve done so far. These projects mainly cover: 
 
